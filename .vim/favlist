@@ -1,0 +1,13 @@
+"! h : toggle help
+"! <Enter> : open file(dir) in this window
+"! o : open file(dir) in new window
+"! O : open file(dir) in previous window
+"! d : delete entry
+"! q : quit favex
+"! :he favex for detailed help
+" Files (do not delete this line)
+~/Documents/MAIN_READING/rommel-analysis.txt
+" Directories (do not delete this line)
+~/Documents/PROG/PYTHON/rommel/lib/python2.7/site-packages/pyramid-1.4-py2.7.egg/pyramid
+~/tmp/apex-0.9.10dev-py2.7.egg_FILES/apex
+~/Documents/PROG/PYTHON/rommel/rommel/rommel
