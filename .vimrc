@@ -94,7 +94,7 @@ noremap to <Esc>:browse tabnew<CR>
 "New tab and favex
 noremap tn <Esc>:tabnew<CR>\fe
 "Hide line number
-nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR>
+nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR> :set nolist!<CR>
 "show Nerdtree
 noremap <F3> :NERDTree<CR>
 "Show taglist
